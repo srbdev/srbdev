@@ -1,5 +1,3 @@
-## sb
-
 Tech stack for 2021: Go, C++, Python & Docker
 
 
