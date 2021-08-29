@@ -1,4 +1,4 @@
-Tech stack for 2021: Go, C++, Python & Docker
+Tech stack for 2022: Python, PyTorch, TensorFlow & C++
 
 
 <!--
