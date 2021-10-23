@@ -1,4 +1,4 @@
-Tech stack for 2022: Python, PyTorch, TensorFlow & C++
+Tech stack for 2022: Python, PyTorch, TensorFlow, Go & C++
 
 
 <!--
