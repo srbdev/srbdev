@@ -1,9 +1,13 @@
-Tech stack for 2022: Python, PyTorch, TensorFlow, Go & C++
+```
+           _         _            
+  ___ _ __| |__   __| | _____   __
+ / __| '__| '_ \ / _` |/ _ \ \ / /
+ \__ \ |  | |_) | (_| |  __/\ V / 
+ |___/_|  |_.__/ \__,_|\___| \_/  
+          
+* Senior Software Engineer
+* Tech stack for 2022: Python, PyTorch, TensorFlow, Go & C++
+```
 
-
-<!--
 ## GitHub Stats
-
-![srbdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=srbdev&show_icons=&private_count=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srbdev&layout=compact)]()
--->
