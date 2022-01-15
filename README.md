@@ -9,5 +9,7 @@
 * Tech stack for 2022: Python, PyTorch, TensorFlow, Go & C++
 ```
 
+<!--
 ## GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srbdev&layout=compact)]()
+-->
