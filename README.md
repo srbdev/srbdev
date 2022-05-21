@@ -5,7 +5,7 @@
  \__ \ |  | |_) | (_| |  __/\ V / 
  |___/_|  |_.__/ \__,_|\___| \_/  
           
-* Senior Software Engineer
+* Research Software Engineer
 * Tech stack for 2022: Python, C++, Docker, Kubernetes & Go
 ```
 
