@@ -6,7 +6,7 @@
  |___/_|  |_.__/ \__,_|\___| \_/  
           
 * Senior Software Engineer
-* Tech stack for 2022: Python, PyTorch, TensorFlow, Go & C++
+* Tech stack for 2022: Python, C++, Docker, Kubernetes & Go
 ```
 
 <!--
