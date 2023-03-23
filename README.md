@@ -6,7 +6,7 @@
  |___/_|  |_.__/ \__,_|\___| \_/  
           
 * Research Software Engineer
-* Tech stack for 2023: Containers, Kubernetes, Python, Bash & C++
+* Tech stack for 2023: Containers, Kubernetes, Python, Bash, C++ and Rust
 * gitlab.com/srbdev
 ```
 
