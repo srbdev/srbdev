@@ -5,8 +5,9 @@
  \__ \ |  | |_) | (_| |  __/\ V / 
  |___/_|  |_.__/ \__,_|\___| \_/  
           
-* Research Software Engineer
-* Tech stack for 2025: containers, Kubernetes, HPC, Python and Rust
+* Principal Research Software Engineer
+* Current technologies: containers, Kubernetes, HPCs, Nix and Spack
+* Current programming languages: Python, OCaml, Rust, Rails and Elixir
 * gitlab.com/srbdev
 ```
 
