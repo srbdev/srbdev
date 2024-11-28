@@ -7,7 +7,7 @@
           
 * Principal Research Software Engineer
 * Current technologies: containers, Kubernetes, HPCs, Nix and Spack
-* Current programming languages: Python, OCaml, Rust, Rails and Elixir
+* Current programming languages: Python, Hy, Rust and Rails
 * gitlab.com/srbdev
 ```
 
