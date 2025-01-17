@@ -6,7 +6,7 @@
  |___/_|  |_.__/ \__,_|\___| \_/  
           
 * Principal Research Software Engineer
-* Current technologies: containers, WebAssembly, Kubernetes, HPCs, Nix and Spack
+* Current technologies: containers, WebAssembly, Kubernetes, and HPCs
 * Current programming languages: Python, Rust and Rails
 * gitlab.com/srbdev
 ```
