@@ -5,9 +5,9 @@
  \__ \ |  | |_) | (_| |  __/\ V / 
  |___/_|  |_.__/ \__,_|\___| \_/  
           
-* Principal Research Software Engineer
-* Current technologies: containers, WebAssembly, Kubernetes, and HPCs
-* Current programming languages: Python, Rust and Rails
+* Principal Computer Scientist
+* Current work: AI engineering and infrastructure, Kubernetes, and HPCs
+* Current programming languages: Python, Rails and Odin
 * gitlab.com/srbdev
 ```
 
