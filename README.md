@@ -5,7 +5,7 @@
  \__ \ |  | |_) | (_| |  __/\ V / 
  |___/_|  |_.__/ \__,_|\___| \_/  
           
-* Principal Computer Scientist
+* Principal Research Software Engineer
 * Current work: AI engineering and infrastructure, Kubernetes, and HPCs
 * Current programming languages: Python, Rails and Odin
 * gitlab.com/srbdev
